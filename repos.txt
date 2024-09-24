@@ -1,2 +1,3 @@
 # List your repositories here in the format: <name> <repo_url>
-SampleRepo https://github.com/user/sample-repo.git
+A git@github.com:M-Agoumi/GroupGit-project-a.git
+B git@github.com:M-Agoumi/GroupGit-project-b.git

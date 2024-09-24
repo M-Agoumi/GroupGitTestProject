@@ -1,0 +1,2 @@
+# List your repositories here in the format: <name> <repo_url>
+SampleRepo https://github.com/user/sample-repo.git
